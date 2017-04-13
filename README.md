@@ -1,5 +1,5 @@
 # Web-Push-Notifications
-This project deals with website push notifications using FCM(Firebase Cloud Messaging). Works fine with most of the modern browsers. 
+This project deals with website push notifications using FCM(Firebase Cloud Messaging).
 # Getting Started
 1. Create an account in Firebase for Push Notifications. https://firebase.google.com/
 
