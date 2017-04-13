@@ -17,4 +17,4 @@ This project deals with website push notifications using FCM(Firebase Cloud Mess
 
 8. Token ID will be generated in the "receiver.html" file, Use that token in the "sender.html" dashboard for sending the push notifications to the subscribers.
 
-Note: FCM is only supported in localhost:// & domains having SSL certificated(https://).
+Note: FCM is only supported in localhost:// & domains having SSL certificates(https://).
